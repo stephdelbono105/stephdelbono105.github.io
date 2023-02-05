@@ -1,0 +1,321 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.pexels-bastian-riccardi-405007-icon {
+  position: absolute;
+  top: 529px;
+  left: 742px;
+  width: 636px;
+  height: 382px;
+  object-fit: cover;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 417px;
+  left: 0;
+  background: linear-gradient(180deg, #4fc3c8, rgba(79, 195, 200, 0));
+  width: 1442px;
+  height: 116px;
+}
+.island-g7ae668d7c-1920-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 501px;
+  object-fit: cover;
+}
+.home1 {
+  position: relative;
+  text-decoration: underline;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.hotels1 {
+  position: relative;
+  cursor: pointer;
+}
+.hotels {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.activities,
+.hotels,
+.menu {
+  display: flex;
+  flex-direction: row;
+}
+.activities {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.menu {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.vector-icon {
+  position: absolute;
+  height: 53.76%;
+  width: 5.37%;
+  top: 0;
+  right: 0;
+  bottom: 46.24%;
+  left: 94.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search {
+  position: absolute;
+  height: 47.31%;
+  width: 33.03%;
+  top: 9.68%;
+  left: 2.16%;
+  display: flex;
+  align-items: center;
+}
+.search-group-child {
+  position: absolute;
+  top: 29.25px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 256.74px;
+  height: 1px;
+}
+.search-group {
+  position: relative;
+  width: 260px;
+  height: 29.75px;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-sm)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-2xl);
+}
+.f01110e66472fbdb0322dfb6c4a1b4-icon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 107px;
+  height: 75px;
+  object-fit: cover;
+}
+.taniti {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.island {
+  margin: 0;
+}
+.taniti-island {
+  position: absolute;
+  top: 5px;
+  left: 86px;
+  font-size: var(--font-size-7xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  width: 96px;
+  height: 75px;
+}
+.faq,
+.follow-us {
+  position: relative;
+}
+.faq {
+  font-size: var(--font-size-3xl);
+  cursor: pointer;
+}
+.activities2 {
+  align-self: stretch;
+}
+.content,
+.footer,
+.menu1 {
+  display: flex;
+  flex-direction: row;
+}
+.menu1 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+.content,
+.footer {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.content {
+  width: 255px;
+  height: 67px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs) var(--padding-3xl) 0 var(--padding-md);
+  align-items: flex-start;
+  gap: var(--gap-lg);
+}
+.footer {
+  position: absolute;
+  top: 1382px;
+  left: 0;
+  background-color: var(--color-skyblue);
+  width: 1440px;
+  height: 63px;
+  padding: var(--padding-xs) var(--padding-4xs) var(--padding-2xs)
+    var(--padding-lg);
+  align-items: center;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-rubik);
+}
+.group-icon {
+  position: absolute;
+  height: 3.08%;
+  width: 2.99%;
+  top: 96.19%;
+  right: 10%;
+  bottom: 0.73%;
+  left: 87.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail,
+.icon-social-facebook,
+.icon-social-youtube,
+.vector-icon1 {
+  position: absolute;
+  height: 2.51%;
+  width: 3.47%;
+  top: 96.73%;
+  right: 74.58%;
+  bottom: 0.76%;
+  left: 21.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail,
+.icon-social-facebook,
+.icon-social-youtube {
+  height: 3.45%;
+  width: 3.19%;
+  top: 96.11%;
+  right: 82.57%;
+  bottom: 0.44%;
+  left: 14.24%;
+}
+.icon-mail,
+.icon-social-youtube {
+  height: 3.34%;
+  width: 3.4%;
+  top: 96.19%;
+  right: 78.47%;
+  bottom: 0.47%;
+  left: 18.13%;
+}
+.icon-mail {
+  height: 2.98%;
+  width: 3.75%;
+  right: 32.5%;
+  bottom: 0.84%;
+  left: 63.75%;
+}
+.resort-906104-1280-1-icon {
+  position: absolute;
+  top: 530px;
+  left: 62px;
+  width: 636px;
+  height: 381px;
+  object-fit: cover;
+}
+.mathew-schwartz-gjzjfmnjzyg-un-icon,
+.pexels-godson-bright-962464-icon {
+  position: absolute;
+  top: 960px;
+  left: 62px;
+  width: 636px;
+  height: 381px;
+  object-fit: cover;
+}
+.mathew-schwartz-gjzjfmnjzyg-un-icon {
+  left: 742px;
+}
+.welcome-to-taniti {
+  position: absolute;
+  top: 395px;
+  left: 189px;
+  font-size: var(--font-size-9xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  width: 1082px;
+  height: 108px;
+  -webkit-text-stroke: 1px #000;
+}
+.activities3,
+.dining2,
+.hotels4,
+.transportation3 {
+  position: absolute;
+  top: 677px;
+  left: 261px;
+  color: var(--color-whitesmoke-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+  cursor: pointer;
+}
+.activities3,
+.dining2,
+.transportation3 {
+  top: 673px;
+  left: 901px;
+}
+.dining2,
+.transportation3 {
+  top: 1103px;
+  left: 116px;
+}
+.dining2 {
+  left: 944px;
+}
+.desktop-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1444px;
+  overflow: hidden;
+}
+.desktop-1-parent {
+  position: relative;
+  width: 100%;
+  height: 1444px;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  font-family: var(--font-abeezee);
+}

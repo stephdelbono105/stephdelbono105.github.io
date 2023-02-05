@@ -1,0 +1,47 @@
+:root {
+  /* fonts */
+  --font-abeezee: ABeeZee;
+  --font-island-moments: "Island Moments";
+  --font-rubik: Rubik;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 26px;
+  --font-size-4xl: 30px;
+  --font-size-5xl: 36px;
+  --font-size-6xl: 40px;
+  --font-size-7xl: 48px;
+  --font-size-8xl: 75px;
+  --font-size-9xl: 128px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke-100: #f5f5f5;
+  --color-whitesmoke-200: #efefef;
+  --color-skyblue: #7ebdd2;
+  --color-gray: rgba(0, 0, 0, 0.38);
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-xs: 90px;
+  --gap-sm: 100px;
+  --gap-md: 190px;
+  --gap-lg: 790px;
+
+  /* Paddings */
+  --padding-4xs: 12px;
+  --padding-3xs: 16px;
+  --padding-2xs: 18px;
+  --padding-xs: 23px;
+  --padding-sm: 32px;
+  --padding-md: 35px;
+  --padding-lg: 57px;
+  --padding-xl: 167px;
+  --padding-2xl: 220px;
+  --padding-3xl: 244px;
+}

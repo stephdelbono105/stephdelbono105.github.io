@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.frame-child8,
+.rectangle-div {
+  position: absolute;
+  top: -15px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 926px;
+  height: 516px;
+}
+.frame-child8 {
+  top: 65px;
+  left: 82px;
+  background-color: var(--color-skyblue);
+  width: 745px;
+  height: 341px;
+}
+.contact-us {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.email-contacttraveltanitico {
+  margin: 0;
+}
+.contact-us-phone-container {
+  position: absolute;
+  top: 101px;
+  left: 93px;
+  display: inline-block;
+  width: 723px;
+  height: 363px;
+}
+.vector-icon4,
+.vector-icon5 {
+  position: absolute;
+  height: 4.59%;
+  width: 2.48%;
+  top: 2.79%;
+  right: 2.05%;
+  bottom: 92.61%;
+  left: 95.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon5 {
+  cursor: pointer;
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 501px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

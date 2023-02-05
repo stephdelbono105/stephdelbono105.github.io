@@ -1,0 +1,352 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-5-child,
+.desktop-5-item {
+  position: absolute;
+  top: 615px;
+  left: 1142px;
+  background-color: var(--color-whitesmoke-200);
+  width: 256px;
+  height: 232px;
+}
+.desktop-5-item {
+  top: 984px;
+}
+.desktop-5-inner {
+  position: absolute;
+  top: 417px;
+  left: 0;
+  background: linear-gradient(180deg, #4fc3c8, rgba(79, 195, 200, 0));
+  width: 1442px;
+  height: 116px;
+}
+.island-g7ae668d7c-1920-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1442px;
+  height: 501px;
+  object-fit: cover;
+}
+.home3 {
+  position: relative;
+}
+.home2,
+.hotels5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.hotels5 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dining4 {
+  position: relative;
+  text-decoration: underline;
+}
+.dining3,
+.menu2 {
+  display: flex;
+  flex-direction: row;
+}
+.dining3 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu2 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.vector-icon6 {
+  position: absolute;
+  height: 53.76%;
+  width: 5.37%;
+  top: 0;
+  right: 0;
+  bottom: 46.24%;
+  left: 94.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search1 {
+  position: absolute;
+  height: 47.31%;
+  width: 33.03%;
+  top: 9.68%;
+  left: 2.16%;
+  display: flex;
+  align-items: center;
+}
+.search-group-item {
+  position: absolute;
+  top: 29.25px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 256.74px;
+  height: 1px;
+}
+.search-group1 {
+  position: relative;
+  width: 260px;
+  height: 29.75px;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+}
+.header1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-sm)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-2xl);
+}
+.f01110e66472fbdb0322dfb6c4a1b4-icon1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 107px;
+  height: 75px;
+  object-fit: cover;
+}
+.taniti1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.island1 {
+  margin: 0;
+}
+.taniti-island1 {
+  position: absolute;
+  top: 5px;
+  left: 86px;
+  font-size: var(--font-size-7xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  width: 96px;
+  height: 75px;
+}
+.faq1 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+}
+.activities6 {
+  align-self: stretch;
+}
+.content1,
+.footer1,
+.menu3 {
+  display: flex;
+  flex-direction: row;
+}
+.menu3 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+.content1,
+.footer1 {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.content1 {
+  width: 255px;
+  height: 67px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs) var(--padding-3xl) 0 var(--padding-md);
+  align-items: flex-start;
+  gap: var(--gap-lg);
+}
+.footer1 {
+  position: absolute;
+  top: 1382px;
+  left: 0;
+  background-color: var(--color-skyblue);
+  width: 1440px;
+  height: 63px;
+  padding: var(--padding-xs) var(--padding-4xs) var(--padding-2xs)
+    var(--padding-lg);
+  align-items: center;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-rubik);
+}
+.group-icon1 {
+  position: absolute;
+  height: 3.38%;
+  width: 3.33%;
+  top: 96.26%;
+  right: 10%;
+  bottom: 0.36%;
+  left: 86.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail1,
+.icon-social-facebook1,
+.icon-social-youtube1,
+.vector-icon7 {
+  position: absolute;
+  height: 2.51%;
+  width: 3.47%;
+  top: 96.73%;
+  right: 74.58%;
+  bottom: 0.76%;
+  left: 21.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail1,
+.icon-social-facebook1,
+.icon-social-youtube1 {
+  height: 3.45%;
+  width: 3.19%;
+  top: 96.11%;
+  right: 82.57%;
+  bottom: 0.44%;
+  left: 14.24%;
+}
+.icon-mail1,
+.icon-social-youtube1 {
+  height: 3.34%;
+  width: 3.4%;
+  top: 96.19%;
+  right: 78.47%;
+  bottom: 0.47%;
+  left: 18.13%;
+}
+.icon-mail1 {
+  height: 2.98%;
+  width: 3.75%;
+  right: 32.5%;
+  bottom: 0.84%;
+  left: 63.75%;
+}
+.sampan-cafe,
+.taniti-firestone-pizza {
+  position: absolute;
+  top: 809px;
+  left: 101px;
+  color: var(--color-whitesmoke-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.taniti-firestone-pizza {
+  top: 1098px;
+  left: 94px;
+}
+.lorem-ipsum-dolor,
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  top: 578px;
+  left: 417px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  display: inline-block;
+  width: 704px;
+  height: 201px;
+}
+.lorem-ipsum-dolor1 {
+  top: 859px;
+  left: 418px;
+  width: 736px;
+  height: 213px;
+}
+.dining-experiences {
+  position: absolute;
+  top: 383px;
+  left: 152px;
+  font-size: var(--font-size-9xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  width: 789px;
+  height: 69px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.lorem-ipsum-dolor2 {
+  position: absolute;
+  top: 1151px;
+  left: 417px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  display: inline-block;
+  width: 713px;
+  height: 175px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 568px;
+  left: 78px;
+  width: 326px;
+  height: 219px;
+  object-fit: cover;
+}
+.taniti-seafood {
+  position: absolute;
+  top: 533px;
+  left: 79px;
+  color: var(--color-whitesmoke-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 844px;
+  left: 79px;
+  width: 329px;
+  height: 222px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 1133px;
+  width: 328px;
+  height: 219px;
+}
+.fish-g05b9a18a5-1920-1-icon,
+.image-4-icon {
+  position: absolute;
+  top: 627px;
+  left: 1150px;
+  width: 236px;
+  height: 208px;
+  object-fit: cover;
+}
+.fish-g05b9a18a5-1920-1-icon {
+  top: 998px;
+  width: 237px;
+}
+.desktop-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-abeezee);
+}

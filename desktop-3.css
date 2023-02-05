@@ -1,0 +1,441 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-3-child {
+  position: absolute;
+  top: 537px;
+  left: 748px;
+  background-color: var(--color-gainsboro);
+  width: 609px;
+  height: 529px;
+}
+.pexels-nextbike-by-tier-135185-icon {
+  position: absolute;
+  top: 777px;
+  left: 389px;
+  width: 278px;
+  height: 200px;
+  object-fit: cover;
+}
+.pexels-pixabay-164634-icon,
+.pexels-tim-samuel-5835261-icon {
+  position: absolute;
+  top: 777px;
+  left: 69px;
+  width: 296px;
+  height: 203px;
+  object-fit: cover;
+}
+.pexels-tim-samuel-5835261-icon {
+  top: 550px;
+  left: 389px;
+  width: 277px;
+  height: 197px;
+}
+.desktop-3-item {
+  position: absolute;
+  top: 417px;
+  left: 0;
+  background: linear-gradient(180deg, #4fc3c8, rgba(79, 195, 200, 0));
+  width: 1442px;
+  height: 116px;
+}
+.island-g7ae668d7c-1920-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1442px;
+  height: 501px;
+  object-fit: cover;
+}
+.home9 {
+  position: relative;
+}
+.home8,
+.hotels18 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.hotels18 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.transportation14 {
+  position: relative;
+  text-decoration: underline;
+}
+.menu8,
+.transportation13 {
+  display: flex;
+  flex-direction: row;
+}
+.transportation13 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu8 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.vector-icon12 {
+  position: absolute;
+  height: 53.76%;
+  width: 5.37%;
+  top: 0;
+  right: 0;
+  bottom: 46.24%;
+  left: 94.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search4 {
+  position: absolute;
+  height: 47.31%;
+  width: 33.03%;
+  top: 9.68%;
+  left: 2.16%;
+  display: flex;
+  align-items: center;
+}
+.search-group-child1 {
+  position: absolute;
+  top: 29.25px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 256.74px;
+  height: 1px;
+}
+.search-group4 {
+  position: relative;
+  width: 260px;
+  height: 29.75px;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+}
+.header4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-sm)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-2xl);
+}
+.f01110e66472fbdb0322dfb6c4a1b4-icon4 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 107px;
+  height: 75px;
+  object-fit: cover;
+}
+.taniti5 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.island4 {
+  margin: 0;
+}
+.taniti-island4 {
+  position: absolute;
+  top: 5px;
+  left: 86px;
+  font-size: var(--font-size-7xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  width: 96px;
+  height: 75px;
+}
+.faq4 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+}
+.activities15 {
+  align-self: stretch;
+}
+.content4,
+.footer4,
+.menu9 {
+  display: flex;
+  flex-direction: row;
+}
+.menu9 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+.content4,
+.footer4 {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.content4 {
+  width: 255px;
+  height: 67px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs) var(--padding-3xl) 0 var(--padding-md);
+  align-items: flex-start;
+  gap: var(--gap-lg);
+}
+.footer4 {
+  position: absolute;
+  top: 1382px;
+  left: 0;
+  background-color: var(--color-skyblue);
+  width: 1440px;
+  height: 63px;
+  padding: var(--padding-xs) var(--padding-4xs) var(--padding-2xs)
+    var(--padding-lg);
+  align-items: center;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-rubik);
+}
+.group-icon4 {
+  position: absolute;
+  height: 3.38%;
+  width: 3.26%;
+  top: 96.26%;
+  right: 10.76%;
+  bottom: 0.36%;
+  left: 85.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail4,
+.icon-social-facebook4,
+.icon-social-youtube4,
+.vector-icon13 {
+  position: absolute;
+  height: 2.51%;
+  width: 3.47%;
+  top: 96.73%;
+  right: 74.58%;
+  bottom: 0.76%;
+  left: 21.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail4,
+.icon-social-facebook4,
+.icon-social-youtube4 {
+  height: 3.45%;
+  width: 3.19%;
+  top: 96.11%;
+  right: 82.57%;
+  bottom: 0.44%;
+  left: 14.24%;
+}
+.icon-mail4,
+.icon-social-youtube4 {
+  height: 3.34%;
+  width: 3.4%;
+  top: 96.19%;
+  right: 78.47%;
+  bottom: 0.47%;
+  left: 18.13%;
+}
+.icon-mail4 {
+  height: 2.98%;
+  width: 3.75%;
+  right: 32.5%;
+  bottom: 0.84%;
+  left: 63.75%;
+}
+.lorem-ipsum-dolor-container4 {
+  position: absolute;
+  top: 1011px;
+  left: 73px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  display: inline-block;
+  width: 629px;
+  height: 339px;
+}
+.bicycle-rentals,
+.rental-cars,
+.taxi-service,
+.ways-to-explore {
+  position: absolute;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.ways-to-explore {
+  top: 383px;
+  left: 152px;
+  font-size: var(--font-size-9xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  width: 675px;
+  height: 69px;
+}
+.bicycle-rentals,
+.rental-cars,
+.taxi-service {
+  top: 624px;
+  left: 430px;
+  color: var(--color-whitesmoke-100);
+}
+.bicycle-rentals,
+.rental-cars {
+  top: 854px;
+  left: 118px;
+}
+.bicycle-rentals {
+  left: 401px;
+}
+.airplane-gaad98a970-1920-icon {
+  position: absolute;
+  top: 547px;
+  left: 68px;
+  width: 289px;
+  height: 199px;
+  object-fit: cover;
+}
+.airport-shuttle {
+  position: absolute;
+  top: 624px;
+  left: 85px;
+  color: var(--color-whitesmoke-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.untitled-1-1-icon {
+  position: absolute;
+  top: 559px;
+  left: 771px;
+  width: 561.77px;
+  height: 485.6px;
+  object-fit: cover;
+}
+.icon-map-marker,
+.icon-map-marker1 {
+  position: absolute;
+  height: 3.58%;
+  width: 2.39%;
+  top: 53.25%;
+  right: 23.99%;
+  bottom: 43.16%;
+  left: 73.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-map-marker1 {
+  height: 3.91%;
+  width: 2.61%;
+  top: 55.54%;
+  right: 32.18%;
+  bottom: 40.55%;
+  left: 65.21%;
+}
+.icon-map-map-marker,
+.icon-map-marker2,
+.icon-map-marker3,
+.icon-map-marker4 {
+  position: absolute;
+  height: 3.8%;
+  width: 2.54%;
+  top: 59.97%;
+  right: 38.71%;
+  bottom: 36.23%;
+  left: 58.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-map-map-marker,
+.icon-map-marker3,
+.icon-map-marker4 {
+  height: 3.69%;
+  width: 2.47%;
+  top: 45.43%;
+  right: 28.92%;
+  bottom: 50.88%;
+  left: 68.61%;
+}
+.icon-map-map-marker,
+.icon-map-marker4 {
+  height: 3.47%;
+  width: 2.32%;
+  top: 47.65%;
+  right: 11.71%;
+  bottom: 48.88%;
+  left: 85.97%;
+}
+.icon-map-map-marker {
+  height: 8.6%;
+  width: 7.84%;
+  top: 62.05%;
+  right: 9.45%;
+  bottom: 29.35%;
+  left: 82.71%;
+}
+.taniti-island-map {
+  position: absolute;
+  top: 523px;
+  left: 883px;
+  font-size: var(--font-size-6xl);
+  line-height: 72.5%;
+  display: inline-block;
+  width: 338px;
+  height: 58px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.icon-map-marker5 {
+  position: absolute;
+  height: 3.84%;
+  width: 2.56%;
+  top: 50.62%;
+  right: 17.23%;
+  bottom: 45.54%;
+  left: 80.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pexels-matthew-barra-813041-icon,
+.rental-car-g8dbebb0b0-1920-1-icon {
+  position: absolute;
+  top: 1111px;
+  left: 744px;
+  width: 299px;
+  height: 195px;
+  object-fit: cover;
+}
+.rental-car-g8dbebb0b0-1920-1-icon {
+  left: 1062px;
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-abeezee);
+}

@@ -1,0 +1,364 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 417px;
+  left: 0;
+  background: linear-gradient(180deg, #4fc3c8, rgba(79, 195, 200, 0));
+  width: 1442px;
+  height: 116px;
+}
+.island-g7ae668d7c-1920-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 501px;
+  object-fit: cover;
+}
+.home7 {
+  position: relative;
+}
+.home6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.hotels14 {
+  position: relative;
+  text-decoration: underline;
+}
+.hotels13,
+.transportation10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.transportation10 {
+  cursor: pointer;
+}
+.activities11 {
+  position: relative;
+  cursor: pointer;
+}
+.menu6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.vector-icon10 {
+  position: absolute;
+  height: 53.76%;
+  width: 5.37%;
+  top: 0;
+  right: 0;
+  bottom: 46.24%;
+  left: 94.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search3 {
+  position: absolute;
+  height: 47.31%;
+  width: 33.03%;
+  top: 9.68%;
+  left: 2.16%;
+  display: flex;
+  align-items: center;
+}
+.line-div {
+  position: absolute;
+  top: 29.25px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 256.74px;
+  height: 1px;
+}
+.search-group3 {
+  position: relative;
+  width: 260px;
+  height: 29.75px;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+}
+.header3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-sm)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+}
+.f01110e66472fbdb0322dfb6c4a1b4-icon3 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 107px;
+  height: 75px;
+  object-fit: cover;
+}
+.island3 {
+  margin: 0;
+}
+.taniti-island3 {
+  position: absolute;
+  top: 5px;
+  left: 86px;
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  color: var(--color-white);
+  display: inline-block;
+  width: 96px;
+  height: 75px;
+}
+.faq3 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  cursor: pointer;
+}
+.activities12 {
+  align-self: stretch;
+}
+.content3,
+.footer3,
+.menu7 {
+  display: flex;
+  flex-direction: row;
+}
+.menu7 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+.content3,
+.footer3 {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.content3 {
+  width: 255px;
+  height: 67px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs) var(--padding-3xl) 0 var(--padding-md);
+  align-items: flex-start;
+  gap: var(--gap-lg);
+}
+.footer3 {
+  position: absolute;
+  top: 1382px;
+  left: 0;
+  background-color: var(--color-skyblue);
+  width: 1440px;
+  height: 63px;
+  padding: var(--padding-xs) var(--padding-4xs) var(--padding-2xs)
+    var(--padding-lg);
+  align-items: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-rubik);
+}
+.group-icon3 {
+  position: absolute;
+  height: 3.38%;
+  width: 3.4%;
+  top: 96.26%;
+  right: 10.49%;
+  bottom: 0.36%;
+  left: 86.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail3,
+.icon-social-facebook3,
+.icon-social-youtube3,
+.vector-icon11 {
+  position: absolute;
+  height: 2.51%;
+  width: 3.47%;
+  top: 96.73%;
+  right: 74.58%;
+  bottom: 0.76%;
+  left: 21.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-mail3,
+.icon-social-facebook3,
+.icon-social-youtube3 {
+  height: 3.45%;
+  width: 3.19%;
+  top: 96.11%;
+  right: 82.57%;
+  bottom: 0.44%;
+  left: 14.24%;
+}
+.icon-mail3,
+.icon-social-youtube3 {
+  height: 3.34%;
+  width: 3.4%;
+  top: 96.19%;
+  right: 78.47%;
+  bottom: 0.47%;
+  left: 18.13%;
+}
+.icon-mail3 {
+  height: 2.98%;
+  width: 3.75%;
+  right: 32.5%;
+  bottom: 0.84%;
+  left: 63.75%;
+}
+.resort-906104-1280-1-icon1 {
+  position: absolute;
+  top: 579px;
+  left: 38px;
+  width: 428px;
+  height: 274px;
+  object-fit: cover;
+}
+.hotels17,
+.resorts {
+  position: absolute;
+  top: 522px;
+  left: 174px;
+  color: var(--color-whitesmoke-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.resorts {
+  top: 527px;
+  left: 632px;
+}
+.resort-213151-1280-1-icon,
+.window-view-1505463-1280-1-icon {
+  position: absolute;
+  top: 583px;
+  left: 500px;
+  width: 434px;
+  height: 276px;
+  object-fit: cover;
+}
+.window-view-1505463-1280-1-icon {
+  left: 972px;
+  width: 430px;
+}
+.bedbreakfast {
+  position: absolute;
+  top: 527px;
+  left: 1020px;
+  color: var(--color-whitesmoke-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.lorem-ipsum-dolor-container1,
+.lorem-ipsum-dolor-container2,
+.lorem-ipsum-dolor-container3 {
+  position: absolute;
+  top: 856px;
+  left: 40px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 415px;
+  height: 268px;
+}
+.lorem-ipsum-dolor-container2,
+.lorem-ipsum-dolor-container3 {
+  left: 508px;
+  width: 417px;
+}
+.lorem-ipsum-dolor-container3 {
+  left: 980px;
+}
+.star-icon {
+  position: relative;
+  width: 56px;
+  height: 53px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.rating {
+  position: absolute;
+  top: 1269px;
+  left: 274px;
+  width: 305px;
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.fantastic-service-and {
+  position: absolute;
+  top: 1170px;
+  left: 152px;
+  font-size: var(--font-size-2xl);
+}
+.the-concierge-staff {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-concierge-staff-container {
+  position: absolute;
+  top: 1205px;
+  left: 152px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 652px;
+  height: 77px;
+}
+.pexels-kampus-production-86233-icon {
+  position: absolute;
+  top: 1124px;
+  left: 811px;
+  width: 380px;
+  height: 224px;
+  object-fit: cover;
+}
+.places-to-stay {
+  position: absolute;
+  top: 383px;
+  left: 152px;
+  font-size: var(--font-size-9xl);
+  line-height: 72.5%;
+  font-family: var(--font-island-moments);
+  color: var(--color-white);
+  display: inline-block;
+  width: 675px;
+  height: 69px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}
